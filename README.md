@@ -1,4 +1,8 @@
 # Monkey_Pox_prediction372
+![istockphoto-1356114754-170667a](https://user-images.githubusercontent.com/47500084/198152804-7e1438bf-5d54-42d5-9df4-92487719492d.jpg)
+
+## Overview
+
 ## Description
 
 ## Project Goal
@@ -15,7 +19,8 @@
 * Swollen Tonsils - inflammation of the tonsils
 * HIV Infection - human immunodeficiency virus
 * Sexually Transmitted Infection -STI
-* MonkeyPox - (Target) Disease  
+
+* MonkeyPox - Target Variable 
 ### Findings
 
 
